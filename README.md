@@ -4,7 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/hooklift/gowsdl?status.svg)](https://godoc.org/github.com/hooklift/gowsdl)
 [![Build Status](https://travis-ci.org/hooklift/gowsdl.svg?branch=master)](https://travis-ci.org/hooklift/gowsdl)
 
-forked from `github.com/hooklift/gowsdl`,  generates Go code from a WSDL file.
+forked from `github.com/hooklift/gowsdl` and tweaked for id3 integration,  generates Go code from a WSDL file.
 
 ### Install
 
